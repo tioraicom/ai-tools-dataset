@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*~
+
+# Owner handoff notes, if any are ever written. They record unresolved decisions and
+# publication steps, which are a maintainer's working notes and not part of the resource.
+docs/pre-publish-checklist.md

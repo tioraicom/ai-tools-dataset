@@ -1,0 +1,149 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/tioraicom/ai-tools-dataset/blob/main/data/schema.json",
+  "title": "TiorAI AI Tools Dataset",
+  "description": "One record per AI product. The prose documentation of these fields is the Schema section of README.md; this file is the version a consumer validates against. Adding, removing, renaming, or retyping a field is a major version bump, so a diff of this file is a diff of the contract.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "name",
+      "official_url",
+      "primary_category",
+      "pricing_model",
+      "short_description",
+      "open_source",
+      "api_available",
+      "last_verified"
+    ],
+    "properties": {
+      "name": {
+        "type": "string",
+        "minLength": 1,
+        "description": "The product name, spelled as the vendor spells it."
+      },
+      "official_url": {
+        "type": "string",
+        "format": "uri",
+        "pattern": "^https://",
+        "description": "The product's own site. HTTPS, canonical, no tracking or affiliate parameters."
+      },
+      "primary_category": {
+        "enum": [
+          "Audio, music, and voice",
+          "Automation and agents",
+          "Business and finance",
+          "Chatbots and assistants",
+          "Coding and development",
+          "Customer support",
+          "Data and analytics",
+          "Design and creative",
+          "Developer infrastructure and models",
+          "Education and learning",
+          "Health and lifestyle",
+          "Image generation and editing",
+          "Marketing and advertising",
+          "Presentations and documents",
+          "Productivity and workflow",
+          "Research and knowledge",
+          "SEO and search",
+          "Sales and CRM",
+          "Video",
+          "Writing and content"
+        ],
+        "description": "One of the categories in categories.csv."
+      },
+      "secondary_category": {
+        "anyOf": [
+          {
+            "enum": [
+              "Audio, music, and voice",
+              "Automation and agents",
+              "Business and finance",
+              "Chatbots and assistants",
+              "Coding and development",
+              "Customer support",
+              "Data and analytics",
+              "Design and creative",
+              "Developer infrastructure and models",
+              "Education and learning",
+              "Health and lifestyle",
+              "Image generation and editing",
+              "Marketing and advertising",
+              "Presentations and documents",
+              "Productivity and workflow",
+              "Research and knowledge",
+              "SEO and search",
+              "Sales and CRM",
+              "Video",
+              "Writing and content"
+            ]
+          },
+          {
+            "type": "null"
+          }
+        ],
+        "description": "A second category where one clearly applies, otherwise null."
+      },
+      "pricing_model": {
+        "type": "array",
+        "minItems": 1,
+        "maxItems": 2,
+        "uniqueItems": true,
+        "items": {
+          "enum": [
+            "Free",
+            "Freemium",
+            "Paid",
+            "Open Source",
+            "Free Trial"
+          ]
+        },
+        "description": "Closed vocabulary. A value outside it is a defect, not a variation."
+      },
+      "platform": {
+        "type": "array",
+        "maxItems": 6,
+        "uniqueItems": true,
+        "items": {
+          "enum": [
+            "Web",
+            "Windows",
+            "macOS",
+            "Linux",
+            "iOS",
+            "Android",
+            "API",
+            "CLI",
+            "Browser Extension",
+            "VS Code",
+            "JetBrains",
+            "Discord"
+          ]
+        },
+        "description": "Closed vocabulary. Recorded only where verified; a wrong label is worse than a missing one."
+      },
+      "short_description": {
+        "type": "string",
+        "minLength": 20,
+        "maxLength": 240,
+        "description": "One or two sentences, written for this dataset, ending in a full stop."
+      },
+      "open_source": {
+        "type": "boolean",
+        "description": "True only for an OSI-approved licence. Source-available products are false."
+      },
+      "api_available": {
+        "type": "boolean",
+        "description": "Whether the product exposes a public API."
+      },
+      "last_verified": {
+        "type": "string",
+        "format": "date",
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+        "description": "ISO date the record was last checked. The honest reading is 'this was true on that date'."
+      }
+    }
+  }
+}
