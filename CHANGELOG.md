@@ -4,6 +4,15 @@ Notable changes to this list. Typo fixes and small wording tweaks are not logged
 
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 1.1.1 — 2026-08-26
+
+### Fixed
+
+- 33 record descriptions rewritten. Thirty opened with or contained "AI-powered", which carries
+  no information in a dataset where every record is an AI tool, and three carried a marketing
+  word rather than a fact. Each now says what the product does. No URL, category, label, or
+  verification date changed.
+
 ## 1.1.0 — 2026-08-26
 
 ### Added

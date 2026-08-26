@@ -846,7 +846,7 @@
       "iOS",
       "Android"
     ],
-    "short_description": "Cloud-based unified communications platform providing VoIP phone systems, AI-powered contact center solutions, video conferencing, and team messaging to businesses worldwide.",
+    "short_description": "Cloud communications suite for businesses, covering VoIP telephony, contact center, video conferencing, and team messaging.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -960,7 +960,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Writing assistant from India that helps users generate SEO-optimized, original content using AI-powered templates and keyword integration.",
+    "short_description": "Indian writing assistant that drafts search-oriented content from templates, with keyword targeting built into the editor.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -1604,7 +1604,7 @@
       "Web",
       "API"
     ],
-    "short_description": "Marketing automation platform that integrates AI-powered email marketing, CRM, and sales automation to help businesses personalize customer experiences and optimize campaigns.",
+    "short_description": "Marketing automation platform combining email campaigns, CRM, and sales workflows, with segmentation and send timing handled automatically.",
     "open_source": false,
     "api_available": true,
     "last_verified": "2026-08-18"
@@ -2564,7 +2564,7 @@
     "platform": [
       "macOS"
     ],
-    "short_description": "Desktop software that automates photo culling by analyzing sharpness, exposure, and facial expressions to help photographers quickly select the best images.",
+    "short_description": "Desktop culling tool that rates photos on sharpness, exposure, and facial expression so photographers can shortlist a shoot quickly.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -2815,7 +2815,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Web platform providing multiple AI-powered tools for generating text and images, automating content tasks, and assisting creative workflows.",
+    "short_description": "Web workspace bundling text and image generators, aimed at people running several small content jobs at once.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -2847,7 +2847,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "No-code platform that allows users to create, customize, and deploy AI-powered agents for automation and customer interaction without programming skills.",
+    "short_description": "No-code builder for creating and deploying agents that handle automation and customer conversations, with no programming required.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -3122,7 +3122,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Online AI-powered platform that interprets blood test results, providing detailed explanations, health risk assessments, and personalized recommendations to help users understand their medical data.",
+    "short_description": "Web service that reads uploaded blood test results and returns plain-language explanations, flagged risks, and follow-up suggestions.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -3239,7 +3239,7 @@
       "Web",
       "API"
     ],
-    "short_description": "Platform that provides AI-powered SMS chatbots to automate business messaging, customer support, and marketing campaigns via text messages.",
+    "short_description": "Builds SMS chatbots for business messaging, so support replies and marketing campaigns run over text rather than a web widget.",
     "open_source": false,
     "api_available": true,
     "last_verified": "2026-08-18"
@@ -3255,7 +3255,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "No-code platform that lets you build, customize, and deploy AI-powered chatbots for websites and messaging platforms, focusing on ease of use and automation.",
+    "short_description": "No-code builder for website and messaging chatbots, aimed at teams that want one deployed without developer time.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -3287,7 +3287,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Free web-based platform that allows users to chat in real-time with AI-powered chatbots supporting English and Spanish languages without requiring registration.",
+    "short_description": "Free web chatrooms with conversational bots in English and Spanish, usable without creating an account.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -3935,7 +3935,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Web-based platform that enables users to create unique digital artworks using AI-powered text-to-image generation, share them with a community, and download creations.",
+    "short_description": "Text-to-image generator with a public gallery, where creations can be shared with other users or downloaded.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -4143,7 +4143,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Online AI-powered platform that provides students with detailed homework help, step-by-step solutions, essay writing assistance, and test preparation support.",
+    "short_description": "Study tool that works through homework questions step by step, and covers essay drafting and test preparation.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -4271,7 +4271,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Colossis offers an AI-powered image generation platform designed specifically for hospitality providers to create customized marketing visuals easily and affordably.",
+    "short_description": "Colossis generates marketing photography for hotels and hospitality operators, producing customized visuals without a studio shoot.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -4645,7 +4645,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Free online AI-powered tool that solves various math problems instantly and provides detailed step-by-step solutions to help students and learners understand math concepts better.",
+    "short_description": "Free solver that works through math problems and shows each step of the working rather than only the answer.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -4938,7 +4938,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Online AI-powered photo editing tool that automates background removal, photo enhancement, and portrait retouching to simplify image editing for users without advanced skills.",
+    "short_description": "Browser photo editor that removes backgrounds, retouches portraits, and enhances images without manual masking.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -5069,7 +5069,7 @@
       "Web",
       "API"
     ],
-    "short_description": "Forma.ai is an AI-powered sales performance management platform that automates incentive compensation calculations, provides sales analytics, and streamlines sales plan modeling for enterprises.",
+    "short_description": "Forma.ai handles sales performance management for enterprises: incentive compensation calculation, sales analytics, and plan modeling.",
     "open_source": false,
     "api_available": true,
     "last_verified": "2026-08-18"
@@ -5296,7 +5296,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "AI Review Reply Assistant automates personalized responses to customer reviews using AI-powered sentiment analysis and multi-platform integration.",
+    "short_description": "Drafts personalized replies to customer reviews, reading sentiment first, and posts them across several review platforms.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -5926,7 +5926,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Free online directory that helps users discover, compare, and learn about thousands of AI-powered tools across various categories and industries.",
+    "short_description": "Free directory for discovering and comparing AI tools, indexed by category and by industry.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -5975,7 +5975,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Web platform that lets you create a personalized AI-powered digital avatar that mimics your personality and appearance for virtual interactions.",
+    "short_description": "Builds a digital avatar that imitates your appearance and manner, for use in virtual interactions.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -6205,7 +6205,7 @@
       "Web",
       "API"
     ],
-    "short_description": "Platform that enables businesses to automate and optimize workflows using AI-powered integrations and a visual builder.",
+    "short_description": "Visual builder for business workflows, connecting the services a process already runs through.",
     "open_source": false,
     "api_available": true,
     "last_verified": "2026-08-18"
@@ -6366,7 +6366,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "The AI-Powered Text-to-Video App by Reemix converts written text into videos automatically using AI, offering customizable templates, voiceover support, and easy sharing options.",
+    "short_description": "Reemix turns written text into finished video, with template choices, voiceover, and direct sharing.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -6383,7 +6383,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "WebQuery is an AI-powered platform that automates web data extraction through a no-code interface, enabling users to gather, analyze, and export web data efficiently.",
+    "short_description": "WebQuery extracts data from websites through a no-code interface, then analyzes and exports what it collects.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -6431,7 +6431,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Web-based platform offering multiple AI-powered writing and automation tools designed to help users generate content quickly and efficiently for marketing, social media, emails, and more.",
+    "short_description": "Bundle of writing and automation tools for marketing copy, social posts, and email, in one web workspace.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -6609,7 +6609,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Content generation platform that helps users create marketing copy, creative writing, and SEO-friendly content quickly using customizable templates and AI-powered text generation.",
+    "short_description": "Generates marketing copy, creative writing, and search-oriented content from customizable templates.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -6890,7 +6890,7 @@
       "Web",
       "Browser Extension"
     ],
-    "short_description": "Meeting assistant that automates scheduling, generates meeting notes, and tracks action items by integrating with your calendar and using AI-powered transcription and summarization.",
+    "short_description": "Meeting assistant that schedules from your calendar, transcribes the call, and turns it into notes and action items.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -6906,7 +6906,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Content generation platform that helps marketers and SEO professionals create optimized marketing copy and blog posts quickly using AI-powered templates and tools.",
+    "short_description": "Content platform for marketers and search teams, producing optimized copy and blog drafts from templates.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -7362,7 +7362,7 @@
       "iOS",
       "Android"
     ],
-    "short_description": "Mobile AI-powered photo editing app that enables users to enhance selfies and portraits with real-time retouching tools such as skin smoothing, blemish removal, and makeup application.",
+    "short_description": "Mobile photo editor for selfies and portraits, with live skin smoothing, blemish removal, and makeup effects.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -7647,7 +7647,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Free web tool that forecasts airfare price trends using historical data and AI, helping travelers decide the best time to book flights.",
+    "short_description": "Free tool that forecasts airfare trends from historical prices, so travelers can judge when to book.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -7895,7 +7895,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Writing assistant that helps users generate, optimize, and edit content with SEO tools and AI-powered suggestions.",
+    "short_description": "Writing assistant for drafting and editing content, with search-optimization suggestions alongside the editor.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -8799,7 +8799,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "Free AI-powered virtual therapist chatbot that provides empathetic conversations, mental health screening, and coping strategies to support emotional wellbeing online.",
+    "short_description": "Free wellbeing chatbot offering supportive conversation, mental-health screening questions, and coping strategies.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -9636,7 +9636,7 @@
       "Web",
       "API"
     ],
-    "short_description": "AI-driven translation platform that supports over 30 languages and offers API integration for seamless multilingual content localization.",
+    "short_description": "Translation platform covering more than 30 languages, with an API for localizing content in bulk.",
     "open_source": false,
     "api_available": true,
     "last_verified": "2026-08-18"
@@ -9923,7 +9923,7 @@
     "platform": [
       "Web"
     ],
-    "short_description": "UK-based AI-powered no-code platform that enables rapid mobile app prototyping without coding, ideal for entrepreneurs and designers to validate app ideas quickly.",
+    "short_description": "UK no-code platform for prototyping mobile apps quickly, aimed at validating an idea before committing to a build.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
@@ -11610,7 +11610,7 @@
       "iOS",
       "Android"
     ],
-    "short_description": "Collaborative software combining mind mapping, task management, and AI-powered brainstorming to help teams organize ideas and manage projects efficiently.",
+    "short_description": "Combines mind mapping, task management, and brainstorming prompts so teams can move from idea to assigned work.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
