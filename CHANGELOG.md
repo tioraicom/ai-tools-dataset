@@ -4,6 +4,21 @@ Notable changes to this list. Typo fixes and small wording tweaks are not logged
 
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
+## 1.1.0 — 2026-08-26
+
+### Added
+
+- `## The records` — all 748 records listed in the README, grouped into the 20 categories and
+  sorted by name inside each, with a linked index of category counts above them. The section is
+  generated from `data/ai-tools.json` rather than written by hand, so it cannot disagree with
+  the data files. They remain the source and the thing to use; the listing is a way to read
+  them without leaving the page.
+
+### Changed
+
+- `AdMob` — description shortened. It ran to 36 words, which is longer than any other record and
+  longer than a single entry should be.
+
 ## 1.0.0 — 2026-08-26
 
 Initial public-ready release.

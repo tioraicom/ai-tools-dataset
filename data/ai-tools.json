@@ -2017,7 +2017,7 @@
       "iOS",
       "Android"
     ],
-    "short_description": "Google AdMob is a free mobile advertising platform by Google that enables app developers to monetize their Android and iOS apps by displaying various ad formats, managing multiple ad networks through mediation, and analyzing ad performance.",
+    "short_description": "Mobile advertising platform for monetising Android and iOS apps, with several ad formats, mediation across multiple ad networks, and performance reporting.",
     "open_source": false,
     "api_available": false,
     "last_verified": "2026-08-18"
