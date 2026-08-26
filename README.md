@@ -41,11 +41,15 @@ Maintained by [TiorAI](https://tiorai.com/), which catalogues AI tools for a liv
 
 ```text
 data/
-├── ai-tools.csv        748 records, 11 columns, UTF-8, RFC 4180
+├── ai-tools.csv        748 records, 10 columns, UTF-8, RFC 4180
 ├── ai-tools.json       the same 748 records, typed
 ├── categories.csv      the 20 categories, with a description and a count
 └── schema.json         JSON Schema for ai-tools.json, to validate against
 ```
+
+**To read the records themselves, open [`data/ai-tools.csv`](data/ai-tools.csv).** GitHub renders it as a sortable, searchable table, so you can look through all 748 without cloning or downloading anything. [`data/ai-tools.json`](data/ai-tools.json) is the same records with proper types, and [`data/categories.csv`](data/categories.csv) is the category list.
+
+This README documents the dataset; it does not reproduce it. 748 records would make an unreadable page and a second copy of the data to keep in sync, and the files above are the product.
 
 The CSV and the JSON are semantically identical. The JSON types the fields properly —
 `pricing_model` and `platform` are arrays, `open_source` and `api_available` are booleans,
